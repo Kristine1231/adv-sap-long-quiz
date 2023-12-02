@@ -52,11 +52,11 @@
   - Service Registry
     + In other discussion in the internet and also from what i understand, Service Registry is like the directory which contains the services and its description, it also like the middleman between the client and the service provider. This application is responsible in looking for and invoking interaction with a service.  It is also the application that provides access to the UDDI. The UDDI enables the client application or the Service Requestor to locate the web service.
   - Service Requestor
-   + This application creates the query to request a service to the Service Registry, find out what services are available and how to communicate with the service provider.
+    + This application creates the query to request a service to the Service Registry, find out what services are available and how to communicate with the service provider.
 10. List and discuss the Web Services Components.
   - SOAP (Simple Object Access Protocol)
-   + Is is a messaging protocol for communication between service provider to services registry(directory) and service requestor to services registry(directory), or to exchange structured information in the web services within a computer network. 
+    + Is is a messaging protocol for communication between service provider to services registry(directory) and service requestor to services registry(directory), or to exchange structured information in the web services within a computer network. 
   - UDDI (Universal Description, Discovery and Integration)
-   + An XML based standard for describing, finding, and publishing web services which is used in Service Registry for the client application to locate a web service. Also, It is a registry for businesses or enterprises providing web-based services to list themselves and find partners on the internet.
+    + An XML based standard for describing, finding, and publishing web services which is used in Service Registry for the client application to locate a web service. Also, It is a registry for businesses or enterprises providing web-based services to list themselves and find partners on the internet.
   - WSDL (Web Services Description Language)
-   + This is a industry accepted language used to create service descriptions. Before a service description to be placed in the directory or service registry, it ha to be created in WSDL.
+    + This is a industry accepted language used to create service descriptions. Before a service description to be placed in the directory or service registry, it ha to be created in WSDL.
